@@ -1,0 +1,11 @@
+plain_grass_patch | x: 0,15 | y: 0, 15
+grass_patch | x: 16, 31 | y: 0, 15
+flower_patch | x: 32, 47 | y: 0, 15
+
+tl_dirt_patch | x: 0, 15 | y: 16, 31
+t_dirt_patch | x: 16, 31 | y: 16, 31
+tr_dirt_patch | x: 32, 47 | y: 16, 31
+
+l_dirt_patch | x:0, 15 | y: 32, 47
+dirt_patch | x: 16, 31 | y: 32, 47
+r_dirt_patch| x: 32, 47 | y: 32, 47
